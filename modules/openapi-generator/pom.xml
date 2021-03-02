@@ -4,7 +4,7 @@
         <groupId>com.justai</groupId>
         <artifactId>openapi-generator-project</artifactId>
         <!-- RELEASE_VERSION -->
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <!-- /RELEASE_VERSION -->
         <relativePath>../..</relativePath>
     </parent>
@@ -397,7 +397,7 @@
         <dependency>
             <groupId>com.justai</groupId>
             <artifactId>openapi-generator-core</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
