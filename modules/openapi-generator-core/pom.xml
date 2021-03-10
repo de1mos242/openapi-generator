@@ -4,9 +4,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <parent>
     <artifactId>openapi-generator-project</artifactId>
-    <groupId>com.justai</groupId>
+    <groupId>org.openapitools</groupId>
     <!-- RELEASE_VERSION -->
-    <version>1.0.0</version>
+    <version>5.1.0-JustAI-SNAPSHOT</version>
     <!-- /RELEASE_VERSION -->
     <relativePath>../..</relativePath>
   </parent>
